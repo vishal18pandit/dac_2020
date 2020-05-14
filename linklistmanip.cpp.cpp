@@ -12,6 +12,8 @@ using namespace std;
 
 class Node
 {
+	/*
+	this is commented by vishal*/
     private:
         int age;
         string name;
@@ -149,6 +151,7 @@ class linklist
 
 int main()
 {
+	/*this is my main fuction*/
     int x;
     int age;
     string name;
